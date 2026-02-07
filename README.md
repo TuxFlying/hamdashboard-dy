@@ -1,5 +1,8 @@
 # Ham Dashboard (hamdashboard)
 
+HTML file contains CSS data that should be displayed separately. 
+
+
 Live demo: [Hamdash Demo](https://va3hdl.github.io/hamdash/)
 
 This repository provides a simple, browser-based ham radio dashboard that displays images, maps, web pages, and feeds in a configurable grid. It is lightweight, easy to host, and suitable for use on a local computer, Raspberry Pi, or a static host such as GitHub Pages or Cloudflare Pages.
