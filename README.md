@@ -1,6 +1,6 @@
 # Ham Dashboard (hamdashboard)
 
-HTML file contains CSS data that should be displayed separately. 
+HTML file contains CSS data that should be displayed separately same with js files
 
 
 Live demo: [Hamdash Demo](https://va3hdl.github.io/hamdash/)
